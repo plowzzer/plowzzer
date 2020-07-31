@@ -1,12 +1,9 @@
-### Pedro Pizzo [plowzzer][website] 👋
+### Olá, me chamo Pedro Pizzo, tambem conhecido como [plowzzer][website] 👋
 
-### Connect with me:
-
-[<img align="left" alt="Website Pedro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Plowzzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Pedro Pizzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+- 🔭 Atualmente estou trabalhando na Bild & Vitta
+- 🌱 Venho aprendendo bastante sobre Testes, VueJS e JS
+- 🥅 Minhas metas de 2020: Contribuir mais com projetos open source e dar suporte a outras pessoas no ramo de Frontend
+- ⚡ Fun fact: Nas horas vagas, curto nadar 🏊, ler 📚 e jogar video games 🎮
 
 ### Languagens e ferramentas:
 
@@ -24,6 +21,12 @@
 
 <br />
 <br />
+
+### Saiba aonde você pode me encontrar:
+
+[<img align="left" alt="Website Pedro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Plowzzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Pedro Pizzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://pedropizzo.com
 [twitter]: https://twitter.com/plowzzer
